@@ -1,14 +1,13 @@
+package SurvivalSimulation;
 import java.util.Random;
+
 /**
  * 
  *  This is a Java-based simulation that models the survival of four individuals (doctor, farmer, carpenter, and hunter) in a world affected by various disasters.
  * 
- * @author [Adam](https://www.adamdoing.tech)
+ * @author Adam
  * @since 2022 
  */
-import java.util.Random;
-
-// Main class for the Survival Simulation
 public class SurvivalSimulation {
     // Inner class representing each person in the simulation
     static class Person {

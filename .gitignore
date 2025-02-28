@@ -1,4 +1,38 @@
+# Ignore bin directory and compiled class files
 bin/
 *.class
+
+# Ignore PDF files
 *.pdf
+
+# macOS specific files
 .DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# VSCode files
+.vscode/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Temp files
+*.tmp
+*.log
+
+# Thumbnails and system files
+.Thumbs.db
+
+# Sensitive files (Example: environment variables)
+.env
