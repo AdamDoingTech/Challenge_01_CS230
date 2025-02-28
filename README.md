@@ -1,6 +1,7 @@
 # Survival Simulation
-
-This is a Java-based simulation that models the survival of four individuals (doctor, farmer, carpenter, and hunter) in a world affected by various disasters. The simulation can be run in two modes:
+## Challenge 01 CS 230
+This is a Java-based simulation that models the survival of four individuals (doctor, farmer, carpenter, and hunter) in a world affected by various disasters.
+<br>The simulation can be run in two modes:
 
 1. **Society Mode**: People work together and share resources.
 2. **Anarchy Mode**: Each person acts independently for their survival.
@@ -26,16 +27,15 @@ This is a Java-based simulation that models the survival of four individuals (do
 - **Wolves**: Reduces health, but the hunter can protect others in society mode.
 
 ## How to Run
-
 1. Compile the Java file:
    ```bash
    javac SurvivalSimulation.java
    ```
-2. Run the simulation in **society mode**:
+2. Run the simulation in **Society Mode**:
    ```bash
    java SurvivalSimulation society
    ```
-3. Run the simulation in **anarchy mode**:
+3. Run the simulation in **Anarchy Mode**:
    ```bash
    java SurvivalSimulation anarchy
    ```
@@ -68,8 +68,8 @@ hunter : 10 4 10
 This project is licensed under the MIT License.
 
 ## Author
-Developed by Adam for [CS 230](https://my.boisestate.edu/course-search/courses/1249/ugrd/CS/121897).
+Developed by [Adam](https://www.adamdoing.tech) for [CS 230](https://my.boisestate.edu/course-search/courses/1249/ugrd/CS/121897).
 
 ## Note: 
 Feel free to modify and extend this simulation to explore survival dynamics under different social structures!
-# Challenge_01_CS230
+
