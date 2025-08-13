@@ -1,5 +1,4 @@
 # Survival Simulation
-## [Challenge 01 CS230]
 This is a Java-based simulation that models the survival of four individuals (doctor, farmer, carpenter, and hunter) in a world affected by various disasters.
 <br>The simulation can be run in two modes:
 
@@ -68,7 +67,7 @@ hunter : 10 4 10
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Adam](https://www.adamdoing.tech) for [CS 230](https://my.boisestate.edu/course-search/courses/1249/ugrd/CS/121897).
+Developed by [Adam](https://www.adamdoing.tech)
 
 ## Note: 
 Feel free to modify and extend this simulation to explore survival dynamics under different social structures!
